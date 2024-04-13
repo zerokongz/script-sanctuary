@@ -1,0 +1,15 @@
+{  
+  "name": "script-sanctuary",  
+  "version": "5.7.9",  
+  "description": "自定义的AI模块检验",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/script-sanctuary"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/script-sanctuary"  
+}
